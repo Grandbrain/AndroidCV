@@ -1,0 +1,23 @@
+#######################################
+##          Android Studio           ##
+#######################################
+
+.idea/
+build/
+captures/
+bin/
+gen/
+local.properties
+.classpath
+.project
+.gradle
+.DS_Store
+*.apk
+*.ap_
+*.dex
+*.class
+*.iml
+*.iws
+*.ipr
+*.swp
+*~
