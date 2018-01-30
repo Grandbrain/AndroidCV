@@ -1,5 +1,8 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen.svg)](https://github.com/Grandbrain/AndroidCV/releases)
-[![Licence](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Grandbrain/AndroidCV/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Grandbrain/AndroidCV.svg)](https://github.com/Grandbrain/AndroidCV/releases)
+[![GitHub issues](https://img.shields.io/github/issues/Grandbrain/AndroidCV.svg)](https://github.com/Grandbrain/AndroidCV/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Grandbrain/AndroidCV.svg)](https://github.com/Grandbrain/AndroidCV/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Grandbrain/AndroidCV.svg)](https://github.com/Grandbrain/AndroidCV/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Grandbrain/AndroidCV.svg)](https://github.com/Grandbrain/AndroidCV/blob/master/LICENSE)
 
 # Welcome to AndroidCV project!
 
